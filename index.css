@@ -141,6 +141,20 @@ i.fa-solid.fa-caret-down {
 .containerHeaduri h1 span {
   color: red;
 }
+.containerHeaduri h2 {
+  flex-grow: 1;
+  white-space: nowrap;
+  padding: 0;
+  margin: 0;
+  overflow: hidden;
+  width: 100%;
+  font-size: 4vw;
+  font-weight: bold;
+  color: white;
+}
+.containerHeaduri h2 span {
+  color: red;
+}
 
 .logo img {
   width: 240px;
@@ -644,12 +658,12 @@ i.fa-solid.fa-caret-down {
 /* BUTTONS ARROWS */
 
 /* TEXT */
-.text h1 {
+.text h2 {
   font-size: 2.5em;
   color: rgb(11, 11, 105);
   margin-bottom: 2%;
 }
-.text h2 {
+.text h3 {
   font-size: 1.3em;
   margin-bottom: 1%;
 }
@@ -873,6 +887,9 @@ i.fa-solid.fa-caret-down {
 }
 .infoProducator .imgProducator {
   width: 100%;
+}
+.infoProducator h1 {
+  color: rgb(36, 36, 133);
 }
 .infoProducator .imgProducator img {
   width: 100%;
