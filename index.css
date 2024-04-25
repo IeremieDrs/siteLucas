@@ -459,6 +459,20 @@ i.fa-solid.fa-caret-down {
   margin-bottom: 5%;
 }
 .despreNoiText h1 {
+  color: rgb(11, 11, 105);
+  font-size: 2em;
+  font-weight: 500;
+  margin-bottom: 15px;
+  opacity: 0;
+}
+.despreNoiText h2 {
+  font-size: 1.6em;
+  font-weight: 500;
+  margin-bottom: 10px;
+  margin-top: -30px;
+}
+.despreNoiText h3 {
+  color: rgb(11, 11, 105);
   font-size: 1.6em;
   font-weight: 500;
 }
@@ -468,6 +482,11 @@ i.fa-solid.fa-caret-down {
 }
 
 /* ATRIBUTE */
+
+.velux_h1 h1 {
+  opacity: 0;
+  margin-top: -19%;
+}
 
 .despreNoiServicii {
   display: flex;
@@ -753,17 +772,17 @@ i.fa-solid.fa-caret-down {
   width: 100%;
   height: auto;
 }
-.folieDiv .item .infoFolie h1 {
+.folieDiv .item .infoFolie h2 {
   color: rgb(36, 36, 133);
   font-size: 2.5em;
   font-weight: 900;
 }
-.folieDiv .item .infoFolie h2 {
+.folieDiv .item .infoFolie h3 {
   font-size: 1.5em;
   margin-bottom: 10px;
   margin-top: 30px;
 }
-.folieDiv .item .infoFolie h3 {
+.folieDiv .item .infoFolie h4 {
   font-size: 1.5em;
   margin-bottom: 10px;
   margin-top: 30px;
