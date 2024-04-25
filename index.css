@@ -193,9 +193,9 @@ i.fa-solid.fa-caret-down {
 
 .phoneNumber {
   position: fixed;
-  bottom: 5%;
-  right: 8%;
-  font-size: 8vw;
+  bottom: 2%;
+  right: 6%;
+  font-size: 6vw;
   color: rgb(18, 141, 18);
   z-index: 5000;
 }
